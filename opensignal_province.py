@@ -1,3 +1,6 @@
+#Created by: KLSantos, NL-SRSA
+#For weekly NL Open Signal DL Speed initial results/analysis.
+
 import numpy as np
 import pandas as pd
 import os
